@@ -2,7 +2,7 @@
 
 > Dependent dropdown date picker for react app
 
-[![NPM](https://img.shields.io/npm/v/react-dropdown-date-picker.svg)](https://www.npmjs.com/package/react-dropdown-date-picker) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/react-dropdown-date-picker-component.svg)](https://www.npmjs.com/package/react-dropdown-date-picker-component) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
